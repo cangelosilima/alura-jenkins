@@ -14,7 +14,7 @@ Run .net core
 dotnet run --project  ./src/application/application.csproj
 ```
 
-At your web browser access http://localhost:8080
+At your web browser access http://localhost:5000
 
 ## SETUP CI
 To run jenkins (if now already up)
