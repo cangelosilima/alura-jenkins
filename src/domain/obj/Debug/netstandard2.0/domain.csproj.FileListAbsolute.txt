@@ -1,0 +1,9 @@
+/home/cangelosilima/Development/alura/jenkins/src/domain/bin/Debug/netstandard2.0/domain.deps.json
+/home/cangelosilima/Development/alura/jenkins/src/domain/bin/Debug/netstandard2.0/domain.dll
+/home/cangelosilima/Development/alura/jenkins/src/domain/bin/Debug/netstandard2.0/domain.pdb
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.csprojAssemblyReference.cache
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.AssemblyInfoInputs.cache
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.AssemblyInfo.cs
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.csproj.CoreCompileInputs.cache
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.dll
+/home/cangelosilima/Development/alura/jenkins/src/domain/obj/Debug/netstandard2.0/domain.pdb
